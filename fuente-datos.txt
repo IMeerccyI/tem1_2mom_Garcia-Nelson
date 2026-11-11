@@ -1,3 +1,0 @@
-Dataset: Sample Superstore (Sample - Superstore.csv)
-Fuente indicada por la consigna: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
-Descarga directa: https://www.kaggle.com/api/v1/datasets/download/vivek468/superstore-dataset-final
