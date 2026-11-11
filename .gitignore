@@ -1,0 +1,11 @@
+# Datos descargados y archivos locales
+/datasets/*
+!/datasets/.gitkeep
+/AGENTS.md
+/docs/PROJECT-MEMORY.md
+/docs/ARCHITECTURE.md
+/docs/DECISIONS.md
+/docs/COMMANDS.md
+/docs/TODO.md
+*.log
+*.tmp
